@@ -85,7 +85,7 @@ function App() {
                   <span className='absolute top-6'>{customers[index]?.items}</span>
                 </div>
               )}
-              {/* waitingCustomers should here first */}
+              
               
               
             </div>
